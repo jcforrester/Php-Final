@@ -1,2 +1,3 @@
-# portfolio
-My main portfolio page for internships
+# PHP Final
+This page was created for my PHP final in server side scripting Fall 2016. These used to be live on the school server, but have since been erased. The original URL's are in place, though they do not work. For the assignment, I had to have 3 elements across the pages of something we covered throughout the year. The First page the footer is dynamically generated from the server and the date is pulled from the server. The second page manages form validation, and while the Bootstrap implimented on the page does that as well, the PHP does a server side check for validation. Lasly, the mad libs page collects user input and places it into the madlib on the second page.
+The page is powered by bootstrap, though it wasn't DESIGNED for mobile. It just helps with layout and spacing.
